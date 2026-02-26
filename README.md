@@ -1,13 +1,13 @@
 hi!
 visit me here -> https://apalmeirim.github.io
 
-<br><br><br>
+<br>
 
 <p align="center">
   <img src="./snoopy_snowing.gif" width="1000">
 </p>
 
-<br><br><br>
+<br>
 
 ## Links
 - [LinkedIn](https://linkedin.com/in/YOUR-USERNAME)
