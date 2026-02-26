@@ -4,7 +4,7 @@ visit me here -> https://apalmeirim.github.io
 <br><br><br>
 
 <p align="center">
-  <img src="./snoopy_snowing.gif" width="400">
+  <img src="./snoopy_snowing.gif" width="1000">
 </p>
 
 <br><br><br>
